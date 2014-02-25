@@ -1,0 +1,10 @@
+inherit kde4
+
+NAME="kcron"
+VERSION=4.11.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE crontab editor"
+DESCRIPTION="KDE system administration suite"
+
+REQUIRES="cron"
